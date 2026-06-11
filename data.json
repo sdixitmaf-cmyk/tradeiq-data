@@ -1,0 +1,151 @@
+{
+  "india_time": "11 Jun 2026 21:14 IST",
+  "timestamp": "2026-06-11T15:44:19.848083",
+  "market_open": false,
+  "market_summary": {},
+  "fii_dii": {
+    "fii": -1987.09,
+    "dii": 4224.51,
+    "net": 2237.42
+  },
+  "top50_scanner": [],
+  "pead_scanner": [
+    {
+      "company": "Hindustan Oil Exploration Company Ltd",
+      "symbol": "HINDUSTAN",
+      "scrip": 500186,
+      "headline": "Financial results for the quarter and financial year ended March 31, 2026 is attached.",
+      "time": "2026-06-11T19:57",
+      "price": 0,
+      "change_pct": 0,
+      "delivery": 0,
+      "pead_score": 50,
+      "signal": "NEUTRAL",
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/500186/"
+    },
+    {
+      "company": "Space Incubatrics Technologies Ltd",
+      "symbol": "SPACE",
+      "scrip": 541890,
+      "headline": "Submission of audited financial results of the company along with auditors report & statement on impact of audit qualification on audit report",
+      "time": "2026-06-11T19:06",
+      "price": 0,
+      "change_pct": 0,
+      "delivery": 0,
+      "pead_score": 50,
+      "signal": "NEUTRAL",
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/541890/"
+    }
+  ],
+  "news_catalysts": [
+    {
+      "company": "JK Paper Ltd",
+      "symbol": "JK",
+      "scrip": 532162,
+      "headline": "Acquisition Update- Borkar packaging Private Limited",
+      "time": "2026-06-11T20:54",
+      "catalyst_type": "ACQUISITION",
+      "impact_estimate": "+5% to +20%",
+      "price": 0,
+      "change_pct": 0,
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/532162/",
+      "sentiment": "BULLISH"
+    },
+    {
+      "company": "Integra Essentia Ltd",
+      "symbol": "INTEGRA",
+      "scrip": 535958,
+      "headline": "Outcome of Rights Issue Committee",
+      "time": "2026-06-11T20:53",
+      "catalyst_type": "OTHER",
+      "impact_estimate": "+2% to +8%",
+      "price": 0,
+      "change_pct": 0,
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/535958/",
+      "sentiment": "BULLISH"
+    },
+    {
+      "company": "Novartis India Ltd",
+      "symbol": "NOVARTIS",
+      "scrip": 500672,
+      "headline": "Axis Capital Ltd (\"Manager to the Open Offer\") has informed BSE regarding the updates on Open offer for acquisition of up to 64,19,608 (sixty four lakhs nineteen thousand six hundred and ....",
+      "time": "2026-06-11T20:05",
+      "catalyst_type": "ACQUISITION",
+      "impact_estimate": "+5% to +20%",
+      "price": 0,
+      "change_pct": 0,
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/500672/",
+      "sentiment": "BULLISH"
+    },
+    {
+      "company": "BCPL Railway Infrastructure Ltd",
+      "symbol": "BCPL",
+      "scrip": 542057,
+      "headline": "Please find attached the press release for bagging of a new contract under Eastern Railway.",
+      "time": "2026-06-11T19:20",
+      "catalyst_type": "ORDER WIN",
+      "impact_estimate": "+3% to +10%",
+      "price": 0,
+      "change_pct": 0,
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/542057/",
+      "sentiment": "BULLISH"
+    }
+  ],
+  "bse_news": [
+    {
+      "company": "JK Paper Ltd",
+      "headline": "Acquisition Update- Borkar packaging Private Limited",
+      "time": "2026-06-11T20:54",
+      "scrip": 532162,
+      "category": "NEWS"
+    },
+    {
+      "company": "Integra Essentia Ltd",
+      "headline": "Outcome of Rights Issue Committee",
+      "time": "2026-06-11T20:53",
+      "scrip": 535958,
+      "category": "NEWS"
+    },
+    {
+      "company": "Novartis India Ltd",
+      "headline": "Axis Capital Ltd (\"Manager to the Open Offer\") has informed BSE regarding the updates on Open offer for acquisition of up to 64,19,608 (sixty four lakhs nineteen thousand six hundred and ....",
+      "time": "2026-06-11T20:05",
+      "scrip": 500672,
+      "category": "NEWS"
+    },
+    {
+      "company": "Hindustan Oil Exploration Company Ltd",
+      "headline": "Financial results for the quarter and financial year ended March 31, 2026 is attached.",
+      "time": "2026-06-11T19:57",
+      "scrip": 500186,
+      "category": "RESULTS"
+    },
+    {
+      "company": "Hindustan Oil Exploration Company Ltd",
+      "headline": "Outcome of the Board meeting held on June 11, 2026 and Financial results for the quarter and financial year ended March 31, 2026",
+      "time": "2026-06-11T19:31",
+      "scrip": 500186,
+      "category": "RESULTS"
+    },
+    {
+      "company": "BCPL Railway Infrastructure Ltd",
+      "headline": "Please find attached the press release for bagging of a new contract under Eastern Railway.",
+      "time": "2026-06-11T19:20",
+      "scrip": 542057,
+      "category": "NEWS"
+    },
+    {
+      "company": "Space Incubatrics Technologies Ltd",
+      "headline": "Submission of audited financial results of the company along with auditors report & statement on impact of audit qualification on audit report",
+      "time": "2026-06-11T19:06",
+      "scrip": 541890,
+      "category": "RESULTS"
+    }
+  ],
+  "ipo": {
+    "upcoming": [],
+    "live": [],
+    "recent": []
+  },
+  "last_updated": "21:14"
+}
