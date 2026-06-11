@@ -1,6 +1,6 @@
 {
-  "india_time": "11 Jun 2026 21:14 IST",
-  "timestamp": "2026-06-11T15:44:19.848083",
+  "india_time": "12 Jun 2026 01:30 IST",
+  "timestamp": "2026-06-11T20:00:33.619757",
   "market_open": false,
   "market_summary": {},
   "fii_dii": {
@@ -11,33 +11,46 @@
   "top50_scanner": [],
   "pead_scanner": [
     {
-      "company": "Hindustan Oil Exploration Company Ltd",
-      "symbol": "HINDUSTAN",
-      "scrip": 500186,
-      "headline": "Financial results for the quarter and financial year ended March 31, 2026 is attached.",
-      "time": "2026-06-11T19:57",
+      "company": "Raghunath International Ltd",
+      "symbol": "RAGHUNATH",
+      "scrip": 526813,
+      "headline": "We here by submitting the Audited Financial Results for the Quarter and year ended 31st March, 2026.\r\n\r\nRevised Submission to Include the Statement of Impact of Audit Qualification Pursuant ....",
+      "time": "2026-06-11T21:33",
       "price": 0,
       "change_pct": 0,
       "delivery": 0,
       "pead_score": 50,
       "signal": "NEUTRAL",
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/500186/"
-    },
-    {
-      "company": "Space Incubatrics Technologies Ltd",
-      "symbol": "SPACE",
-      "scrip": 541890,
-      "headline": "Submission of audited financial results of the company along with auditors report & statement on impact of audit qualification on audit report",
-      "time": "2026-06-11T19:06",
-      "price": 0,
-      "change_pct": 0,
-      "delivery": 0,
-      "pead_score": 50,
-      "signal": "NEUTRAL",
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/541890/"
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/526813/"
     }
   ],
   "news_catalysts": [
+    {
+      "company": "SIS Ltd",
+      "symbol": "SIS",
+      "scrip": 540673,
+      "headline": "SIS Limited informed the exchange regarding the additional acquisition of equity shares of Updater Services Limited.",
+      "time": "2026-06-11T22:24",
+      "catalyst_type": "ACQUISITION",
+      "impact_estimate": "+5% to +20%",
+      "price": 0,
+      "change_pct": 0,
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/540673/",
+      "sentiment": "BULLISH"
+    },
+    {
+      "company": "Adani Enterprises Ltd",
+      "symbol": "ADANI",
+      "scrip": 512599,
+      "headline": "Intimation of acquisition of Madhuvanti Build Estate Limited by AdaniConneX Private Limited, a joint venture of the Company",
+      "time": "2026-06-11T21:26",
+      "catalyst_type": "ACQUISITION",
+      "impact_estimate": "+5% to +20%",
+      "price": 0,
+      "change_pct": 0,
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/512599/",
+      "sentiment": "BULLISH"
+    },
     {
       "company": "JK Paper Ltd",
       "symbol": "JK",
@@ -76,22 +89,37 @@
       "change_pct": 0,
       "bse_link": "https://www.bseindia.com/stock-share-price/x/x/500672/",
       "sentiment": "BULLISH"
-    },
-    {
-      "company": "BCPL Railway Infrastructure Ltd",
-      "symbol": "BCPL",
-      "scrip": 542057,
-      "headline": "Please find attached the press release for bagging of a new contract under Eastern Railway.",
-      "time": "2026-06-11T19:20",
-      "catalyst_type": "ORDER WIN",
-      "impact_estimate": "+3% to +10%",
-      "price": 0,
-      "change_pct": 0,
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/542057/",
-      "sentiment": "BULLISH"
     }
   ],
   "bse_news": [
+    {
+      "company": "SIS Ltd",
+      "headline": "SIS Limited informed the exchange regarding the additional acquisition of equity shares of Updater Services Limited.",
+      "time": "2026-06-11T22:24",
+      "scrip": 540673,
+      "category": "NEWS"
+    },
+    {
+      "company": "Raghunath International Ltd",
+      "headline": "We here by submitting the Audited Financial Results for the Quarter and year ended 31st March, 2026.\r\n\r\nRevised Submission to Include the Statement of Impact of Audit Qualification Pursuant ....",
+      "time": "2026-06-11T21:33",
+      "scrip": 526813,
+      "category": "RESULTS"
+    },
+    {
+      "company": "Raghunath International Ltd",
+      "headline": "We here by submitting the Audited Financial Results for the Quarter and year ended 31st March, 2026.\r\n\r\nRevised Submission to Include the Statement of Impact of Audit Qualification Pursuant ....",
+      "time": "2026-06-11T21:32",
+      "scrip": 526813,
+      "category": "RESULTS"
+    },
+    {
+      "company": "Adani Enterprises Ltd",
+      "headline": "Intimation of acquisition of Madhuvanti Build Estate Limited by AdaniConneX Private Limited, a joint venture of the Company",
+      "time": "2026-06-11T21:26",
+      "scrip": 512599,
+      "category": "NEWS"
+    },
     {
       "company": "JK Paper Ltd",
       "headline": "Acquisition Update- Borkar packaging Private Limited",
@@ -112,34 +140,6 @@
       "time": "2026-06-11T20:05",
       "scrip": 500672,
       "category": "NEWS"
-    },
-    {
-      "company": "Hindustan Oil Exploration Company Ltd",
-      "headline": "Financial results for the quarter and financial year ended March 31, 2026 is attached.",
-      "time": "2026-06-11T19:57",
-      "scrip": 500186,
-      "category": "RESULTS"
-    },
-    {
-      "company": "Hindustan Oil Exploration Company Ltd",
-      "headline": "Outcome of the Board meeting held on June 11, 2026 and Financial results for the quarter and financial year ended March 31, 2026",
-      "time": "2026-06-11T19:31",
-      "scrip": 500186,
-      "category": "RESULTS"
-    },
-    {
-      "company": "BCPL Railway Infrastructure Ltd",
-      "headline": "Please find attached the press release for bagging of a new contract under Eastern Railway.",
-      "time": "2026-06-11T19:20",
-      "scrip": 542057,
-      "category": "NEWS"
-    },
-    {
-      "company": "Space Incubatrics Technologies Ltd",
-      "headline": "Submission of audited financial results of the company along with auditors report & statement on impact of audit qualification on audit report",
-      "time": "2026-06-11T19:06",
-      "scrip": 541890,
-      "category": "RESULTS"
     }
   ],
   "ipo": {
@@ -147,5 +147,5 @@
     "live": [],
     "recent": []
   },
-  "last_updated": "21:14"
+  "last_updated": "01:30"
 }
