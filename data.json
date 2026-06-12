@@ -1,6 +1,6 @@
 {
-  "india_time": "12 Jun 2026 20:20 IST",
-  "timestamp": "2026-06-12T14:50:50.842878Z",
+  "india_time": "12 Jun 2026 20:28 IST",
+  "timestamp": "2026-06-12T14:58:48.962781Z",
   "market_open": false,
   "bhavcopy_stats": {},
   "fii_dii": {
@@ -3425,24 +3425,24 @@
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/oz",
-      "price": 4213.1,
-      "change_pct": 3.0,
+      "price": 4201.8,
+      "change_pct": 2.73,
       "prev_close": 4090.3
     },
     {
       "symbol": "SI=F",
       "name": "Silver",
       "unit": "USD/oz",
-      "price": 66.79,
-      "change_pct": 4.56,
+      "price": 66.44,
+      "change_pct": 4.01,
       "prev_close": 63.88
     },
     {
       "symbol": "CL=F",
       "name": "Crude Oil",
       "unit": "USD/bbl",
-      "price": 86.29,
-      "change_pct": -1.62,
+      "price": 86.51,
+      "change_pct": -1.37,
       "prev_close": 87.71
     },
     {
@@ -3498,7 +3498,7 @@
     "live": [],
     "upcoming": []
   },
-  "last_updated": "20:20",
+  "last_updated": "20:28",
   "stats": {
     "stocks_scanned": 0,
     "candidates_deep": 84,
