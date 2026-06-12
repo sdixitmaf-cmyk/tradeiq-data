@@ -1,6 +1,6 @@
 {
-  "india_time": "12 Jun 2026 01:30 IST",
-  "timestamp": "2026-06-11T20:00:33.619757",
+  "india_time": "12 Jun 2026 16:41 IST",
+  "timestamp": "2026-06-12T11:11:03.907590",
   "market_open": false,
   "market_summary": {},
   "fii_dii": {
@@ -11,134 +11,87 @@
   "top50_scanner": [],
   "pead_scanner": [
     {
-      "company": "Raghunath International Ltd",
-      "symbol": "RAGHUNATH",
-      "scrip": 526813,
-      "headline": "We here by submitting the Audited Financial Results for the Quarter and year ended 31st March, 2026.\r\n\r\nRevised Submission to Include the Statement of Impact of Audit Qualification Pursuant ....",
-      "time": "2026-06-11T21:33",
+      "company": "Bai-Kakaji Polymers Ltd",
+      "symbol": "BAI-KAKAJI",
+      "scrip": 544670,
+      "headline": "Investor Presentation on the Financial Results for the half year and year ended 31st March, 2026 pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligation and Disclosure ....",
+      "time": "2026-06-12T16:36",
       "price": 0,
       "change_pct": 0,
       "delivery": 0,
       "pead_score": 50,
       "signal": "NEUTRAL",
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/526813/"
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/544670/"
+    },
+    {
+      "company": "Midwest Gold Ltd",
+      "symbol": "MIDWEST",
+      "scrip": 526570,
+      "headline": "Resubmission pursuant to BSE email for separate filing of Statement on Impact of Audit Qualifications (Audit Report with Modified Opinion) for Standalone and Consolidated Financial Results ....",
+      "time": "2026-06-12T16:35",
+      "price": 0,
+      "change_pct": 0,
+      "delivery": 0,
+      "pead_score": 50,
+      "signal": "NEUTRAL",
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/526570/"
+    },
+    {
+      "company": "Facor Alloys Ltd",
+      "symbol": "FACOR",
+      "scrip": 532656,
+      "headline": "Statement of Audit Qualification on the Consolidated Financial Results for the Quarter and Year Ended 31st March, 2026",
+      "time": "2026-06-12T16:30",
+      "price": 0,
+      "change_pct": 0,
+      "delivery": 0,
+      "pead_score": 50,
+      "signal": "NEUTRAL",
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/532656/"
     }
   ],
   "news_catalysts": [
     {
-      "company": "SIS Ltd",
-      "symbol": "SIS",
-      "scrip": 540673,
-      "headline": "SIS Limited informed the exchange regarding the additional acquisition of equity shares of Updater Services Limited.",
-      "time": "2026-06-11T22:24",
+      "company": "Affle 3I Ltd",
+      "symbol": "AFFLE",
+      "scrip": 542752,
+      "headline": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on June 12, 2026 for AGPL Pte Ltd ....",
+      "time": "2026-06-12T16:07",
       "catalyst_type": "ACQUISITION",
       "impact_estimate": "+5% to +20%",
       "price": 0,
       "change_pct": 0,
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/540673/",
-      "sentiment": "BULLISH"
-    },
-    {
-      "company": "Adani Enterprises Ltd",
-      "symbol": "ADANI",
-      "scrip": 512599,
-      "headline": "Intimation of acquisition of Madhuvanti Build Estate Limited by AdaniConneX Private Limited, a joint venture of the Company",
-      "time": "2026-06-11T21:26",
-      "catalyst_type": "ACQUISITION",
-      "impact_estimate": "+5% to +20%",
-      "price": 0,
-      "change_pct": 0,
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/512599/",
-      "sentiment": "BULLISH"
-    },
-    {
-      "company": "JK Paper Ltd",
-      "symbol": "JK",
-      "scrip": 532162,
-      "headline": "Acquisition Update- Borkar packaging Private Limited",
-      "time": "2026-06-11T20:54",
-      "catalyst_type": "ACQUISITION",
-      "impact_estimate": "+5% to +20%",
-      "price": 0,
-      "change_pct": 0,
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/532162/",
-      "sentiment": "BULLISH"
-    },
-    {
-      "company": "Integra Essentia Ltd",
-      "symbol": "INTEGRA",
-      "scrip": 535958,
-      "headline": "Outcome of Rights Issue Committee",
-      "time": "2026-06-11T20:53",
-      "catalyst_type": "OTHER",
-      "impact_estimate": "+2% to +8%",
-      "price": 0,
-      "change_pct": 0,
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/535958/",
-      "sentiment": "BULLISH"
-    },
-    {
-      "company": "Novartis India Ltd",
-      "symbol": "NOVARTIS",
-      "scrip": 500672,
-      "headline": "Axis Capital Ltd (\"Manager to the Open Offer\") has informed BSE regarding the updates on Open offer for acquisition of up to 64,19,608 (sixty four lakhs nineteen thousand six hundred and ....",
-      "time": "2026-06-11T20:05",
-      "catalyst_type": "ACQUISITION",
-      "impact_estimate": "+5% to +20%",
-      "price": 0,
-      "change_pct": 0,
-      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/500672/",
+      "bse_link": "https://www.bseindia.com/stock-share-price/x/x/542752/",
       "sentiment": "BULLISH"
     }
   ],
   "bse_news": [
     {
-      "company": "SIS Ltd",
-      "headline": "SIS Limited informed the exchange regarding the additional acquisition of equity shares of Updater Services Limited.",
-      "time": "2026-06-11T22:24",
-      "scrip": 540673,
-      "category": "NEWS"
-    },
-    {
-      "company": "Raghunath International Ltd",
-      "headline": "We here by submitting the Audited Financial Results for the Quarter and year ended 31st March, 2026.\r\n\r\nRevised Submission to Include the Statement of Impact of Audit Qualification Pursuant ....",
-      "time": "2026-06-11T21:33",
-      "scrip": 526813,
+      "company": "Bai-Kakaji Polymers Ltd",
+      "headline": "Investor Presentation on the Financial Results for the half year and year ended 31st March, 2026 pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligation and Disclosure ....",
+      "time": "2026-06-12T16:36",
+      "scrip": 544670,
       "category": "RESULTS"
     },
     {
-      "company": "Raghunath International Ltd",
-      "headline": "We here by submitting the Audited Financial Results for the Quarter and year ended 31st March, 2026.\r\n\r\nRevised Submission to Include the Statement of Impact of Audit Qualification Pursuant ....",
-      "time": "2026-06-11T21:32",
-      "scrip": 526813,
+      "company": "Midwest Gold Ltd",
+      "headline": "Resubmission pursuant to BSE email for separate filing of Statement on Impact of Audit Qualifications (Audit Report with Modified Opinion) for Standalone and Consolidated Financial Results ....",
+      "time": "2026-06-12T16:35",
+      "scrip": 526570,
       "category": "RESULTS"
     },
     {
-      "company": "Adani Enterprises Ltd",
-      "headline": "Intimation of acquisition of Madhuvanti Build Estate Limited by AdaniConneX Private Limited, a joint venture of the Company",
-      "time": "2026-06-11T21:26",
-      "scrip": 512599,
-      "category": "NEWS"
+      "company": "Facor Alloys Ltd",
+      "headline": "Statement of Audit Qualification on the Consolidated Financial Results for the Quarter and Year Ended 31st March, 2026",
+      "time": "2026-06-12T16:30",
+      "scrip": 532656,
+      "category": "RESULTS"
     },
     {
-      "company": "JK Paper Ltd",
-      "headline": "Acquisition Update- Borkar packaging Private Limited",
-      "time": "2026-06-11T20:54",
-      "scrip": 532162,
-      "category": "NEWS"
-    },
-    {
-      "company": "Integra Essentia Ltd",
-      "headline": "Outcome of Rights Issue Committee",
-      "time": "2026-06-11T20:53",
-      "scrip": 535958,
-      "category": "NEWS"
-    },
-    {
-      "company": "Novartis India Ltd",
-      "headline": "Axis Capital Ltd (\"Manager to the Open Offer\") has informed BSE regarding the updates on Open offer for acquisition of up to 64,19,608 (sixty four lakhs nineteen thousand six hundred and ....",
-      "time": "2026-06-11T20:05",
-      "scrip": 500672,
+      "company": "Affle 3I Ltd",
+      "headline": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on June 12, 2026 for AGPL Pte Ltd ....",
+      "time": "2026-06-12T16:07",
+      "scrip": 542752,
       "category": "NEWS"
     }
   ],
@@ -147,5 +100,5 @@
     "live": [],
     "recent": []
   },
-  "last_updated": "01:30"
+  "last_updated": "16:41"
 }
