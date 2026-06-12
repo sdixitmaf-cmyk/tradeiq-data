@@ -1,6 +1,6 @@
 {
-  "india_time": "12 Jun 2026 20:13 IST",
-  "timestamp": "2026-06-12T14:44:15.829458Z",
+  "india_time": "12 Jun 2026 20:20 IST",
+  "timestamp": "2026-06-12T14:50:50.842878Z",
   "market_open": false,
   "bhavcopy_stats": {},
   "fii_dii": {
@@ -2962,6 +2962,17 @@
   ],
   "bse_news": [
     {
+      "company": "Navoday Enterprises Ltd",
+      "headline": "Declaration under Reg 31(4) of SEBI(sunstantial acquisition & takeovers), Regulations 2011 for the year ended 31st March 2026",
+      "time": "2026-06-12T20:15",
+      "scrip": 543305,
+      "sentiment": "BULLISH",
+      "category": "ACQUISITION",
+      "impact": "Expected +5 to +20%",
+      "emoji": "\ud83d\ude80",
+      "score": 5
+    },
+    {
       "company": "NB Footwear Ltd",
       "headline": "Regulation 31(4) of Securities and Exchange Board of India (Substantial Acquisition & Takeovers) Regulations,2011",
       "time": "2026-06-12T19:52",
@@ -3414,24 +3425,24 @@
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/oz",
-      "price": 4203.2,
-      "change_pct": 2.76,
+      "price": 4213.1,
+      "change_pct": 3.0,
       "prev_close": 4090.3
     },
     {
       "symbol": "SI=F",
       "name": "Silver",
       "unit": "USD/oz",
-      "price": 66.56,
-      "change_pct": 4.2,
+      "price": 66.79,
+      "change_pct": 4.56,
       "prev_close": 63.88
     },
     {
       "symbol": "CL=F",
       "name": "Crude Oil",
       "unit": "USD/bbl",
-      "price": 86.53,
-      "change_pct": -1.35,
+      "price": 86.29,
+      "change_pct": -1.62,
       "prev_close": 87.71
     },
     {
@@ -3487,12 +3498,12 @@
     "live": [],
     "upcoming": []
   },
-  "last_updated": "20:13",
+  "last_updated": "20:20",
   "stats": {
     "stocks_scanned": 0,
     "candidates_deep": 84,
     "buy_signals": 13,
-    "news_items": 3,
+    "news_items": 4,
     "trading_ideas": 15,
     "investment_ideas": 10
   }
