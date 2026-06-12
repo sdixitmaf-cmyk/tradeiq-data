@@ -1,6 +1,6 @@
 {
-  "india_time": "12 Jun 2026 19:09 IST",
-  "timestamp": "2026-06-12T13:39:53.115210Z",
+  "india_time": "12 Jun 2026 20:13 IST",
+  "timestamp": "2026-06-12T14:44:15.829458Z",
   "market_open": false,
   "bhavcopy_stats": {},
   "fii_dii": {
@@ -2842,65 +2842,6 @@
       "rr": "1:2.5"
     },
     {
-      "symbol": "NAUKRI",
-      "close": 972.2,
-      "change_pct": 0,
-      "high": 0,
-      "low": 0,
-      "volume": 0,
-      "turnover_lacs": 1000,
-      "delivery_pct": 50,
-      "score": {
-        "overall": 6.0,
-        "label": "HOLD \u27a1\ufe0f",
-        "tech_score": 5.4,
-        "fund_score": 7.0,
-        "breakdown": {
-          "rsi": 6,
-          "macd": 9,
-          "ma_trend": 3,
-          "momentum": 4,
-          "volume": 5,
-          "delivery": 6.2,
-          "valuation": 8
-        },
-        "tradeable": false,
-        "est_upside": "N/A"
-      },
-      "tech": {
-        "rsi": 59.1,
-        "rsi_signal": "NEUTRAL \u26aa",
-        "sma50": 987.67,
-        "sma200": 984.96,
-        "ema20": 980.51,
-        "macd": {
-          "line": 2.01,
-          "trend": "BULLISH",
-          "crossover": "BULLISH"
-        },
-        "golden_cross": true,
-        "cross_label": "GOLDEN CROSS \u2705",
-        "vs_sma50": "BELOW",
-        "vs_sma200": "BELOW",
-        "vs_ema20": "BELOW",
-        "week52_high": 1077.7,
-        "week52_low": 925.95,
-        "week52_pos": 30.5,
-        "vol_ratio": 0.4,
-        "vol_signal": "LOW \ud83d\udcc9"
-      },
-      "fund": {
-        "pe": 0,
-        "pb": 0,
-        "mktcap": 0
-      },
-      "sl": 923.59,
-      "t1": 1069.42,
-      "t2": 1166.64,
-      "t3": 1263.86,
-      "rr": "1:4.0"
-    },
-    {
       "symbol": "RELIANCE",
       "close": 1293.0,
       "change_pct": 0,
@@ -2958,36 +2899,95 @@
       "t2": 1486.95,
       "t3": 1616.25,
       "rr": "1:2.5"
+    },
+    {
+      "symbol": "WIPRO",
+      "close": 180.14,
+      "change_pct": 0,
+      "high": 0,
+      "low": 0,
+      "volume": 0,
+      "turnover_lacs": 1000,
+      "delivery_pct": 50,
+      "score": {
+        "overall": 5.9,
+        "label": "HOLD \u27a1\ufe0f",
+        "tech_score": 5.2,
+        "fund_score": 7.0,
+        "breakdown": {
+          "rsi": 10,
+          "macd": 3,
+          "ma_trend": 3,
+          "momentum": 4,
+          "volume": 5,
+          "delivery": 6.2,
+          "valuation": 8
+        },
+        "tradeable": false,
+        "est_upside": "N/A"
+      },
+      "tech": {
+        "rsi": 22.9,
+        "rsi_signal": "OVERSOLD \ud83d\udfe2 \u2014 Buy signal",
+        "sma50": 198.66,
+        "sma200": 197.29,
+        "ema20": 192.85,
+        "macd": {
+          "line": -4.44,
+          "trend": "BEARISH",
+          "crossover": "BEARISH"
+        },
+        "golden_cross": true,
+        "cross_label": "GOLDEN CROSS \u2705",
+        "vs_sma50": "BELOW",
+        "vs_sma200": "BELOW",
+        "vs_ema20": "BELOW",
+        "week52_high": 210.26,
+        "week52_low": 177.37,
+        "week52_pos": 8.4,
+        "vol_ratio": 0.4,
+        "vol_signal": "LOW \ud83d\udcc9"
+      },
+      "fund": {
+        "pe": 0.0,
+        "pb": 0.0,
+        "mktcap": 1889867977052
+      },
+      "sl": 169.33,
+      "t1": 194.55,
+      "t2": 207.16,
+      "t3": 225.17,
+      "rr": "1:2.5"
     }
   ],
   "bse_news": [
     {
-      "company": "ECS Biztech Ltd",
-      "headline": "Disclosure under Regulation 31A of SEBI (LODR) Regulations, 2015-Intimation of receipt of approval for Reclassification of Promoter Group members.",
-      "time": "2026-06-12T19:01",
-      "scrip": 540063,
+      "company": "NB Footwear Ltd",
+      "headline": "Regulation 31(4) of Securities and Exchange Board of India (Substantial Acquisition & Takeovers) Regulations,2011",
+      "time": "2026-06-12T19:52",
+      "scrip": 523242,
       "sentiment": "BULLISH",
-      "category": "APPROVAL",
-      "impact": "Expected +5 to +15%",
+      "category": "ACQUISITION",
+      "impact": "Expected +5 to +20%",
       "emoji": "\ud83d\ude80",
       "score": 5
     },
     {
-      "company": "Panth Infinity Ltd",
-      "headline": "Shifting of Registered office from the \"State of Gujarat\" to State of West Bengal\" subject to the approval and Regional Director, Ministry of Corporate Affairs.",
-      "time": "2026-06-12T18:44",
-      "scrip": 539143,
+      "company": "Novartis India Ltd",
+      "headline": "Axis Capital Ltd (\"Manager to the Open Offer\") has informed BSE regarding Open offer for acquisition of up to 64,19,608 (sixty four lakhs nineteen thousand six hundred and eight) fully ....",
+      "time": "2026-06-12T19:30",
+      "scrip": 500672,
       "sentiment": "BULLISH",
-      "category": "APPROVAL",
-      "impact": "Expected +5 to +15%",
+      "category": "ACQUISITION",
+      "impact": "Expected +5 to +20%",
       "emoji": "\ud83d\ude80",
       "score": 5
     },
     {
-      "company": "Panth Infinity Ltd",
-      "headline": "1. Shifting of Registered Office from the 'State of Gujarat' to the 'State of West Bengal', subject to the approval of shareholders and Regional Director, Ministry of Corporate Affairs.",
-      "time": "2026-06-12T18:40",
-      "scrip": 539143,
+      "company": "Ratnaveer Precision Engineering Ltd",
+      "headline": "General update on submission of application for In-principle approval for the proposed Rights issue.",
+      "time": "2026-06-12T19:28",
+      "scrip": 543978,
       "sentiment": "BULLISH",
       "category": "APPROVAL",
       "impact": "Expected +5 to +15%",
@@ -3414,32 +3414,32 @@
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/oz",
-      "price": 4223.8,
-      "change_pct": 3.26,
+      "price": 4203.2,
+      "change_pct": 2.76,
       "prev_close": 4090.3
     },
     {
       "symbol": "SI=F",
       "name": "Silver",
       "unit": "USD/oz",
-      "price": 67.03,
-      "change_pct": 4.93,
+      "price": 66.56,
+      "change_pct": 4.2,
       "prev_close": 63.88
     },
     {
       "symbol": "CL=F",
       "name": "Crude Oil",
       "unit": "USD/bbl",
-      "price": 85.33,
-      "change_pct": -2.71,
+      "price": 86.53,
+      "change_pct": -1.35,
       "prev_close": 87.71
     },
     {
       "symbol": "NG=F",
       "name": "Natural Gas",
       "unit": "USD/MMBtu",
-      "price": 3.08,
-      "change_pct": -0.32,
+      "price": 3.12,
+      "change_pct": 0.97,
       "prev_close": 3.09
     },
     {
@@ -3487,10 +3487,10 @@
     "live": [],
     "upcoming": []
   },
-  "last_updated": "19:09",
+  "last_updated": "20:13",
   "stats": {
     "stocks_scanned": 0,
-    "candidates_deep": 86,
+    "candidates_deep": 84,
     "buy_signals": 13,
     "news_items": 3,
     "trading_ideas": 15,
